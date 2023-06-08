@@ -1,8 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
+import { useState,React } from 'react';
 
-export default function ValueAnswer(props) {
+export default function ValueAnswer({value}) {
     return (
-        <span>{props.value}</span>
+        <span>{value}</span>
     )
 }
