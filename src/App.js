@@ -1,10 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import ValueInput from './Components/ValueInput';
+import ValueAnswer from './Components/ValueAnswer';
 
 function App() {
   return (
     <div className="App">
-      <h1>hello world</h1>
+      <ValueInput value="5"/> + <ValueInput value="8"/> 
+      = <ValueAnswer value="0"/>
     </div>
   );
 }
