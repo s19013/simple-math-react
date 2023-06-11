@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.43b97e72.js",
-    "static/js/787.bd6ba04b.chunk.js": "/static/js/787.bd6ba04b.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.43b97e72.js.map": "/static/js/main.43b97e72.js.map",
-    "787.bd6ba04b.chunk.js.map": "/static/js/787.bd6ba04b.chunk.js.map"
+    "main.css": "/simple-math-react/static/css/main.073c9b0a.css",
+    "main.js": "/simple-math-react/static/js/main.20b26a93.js",
+    "static/js/787.bd6ba04b.chunk.js": "/simple-math-react/static/js/787.bd6ba04b.chunk.js",
+    "index.html": "/simple-math-react/index.html",
+    "main.073c9b0a.css.map": "/simple-math-react/static/css/main.073c9b0a.css.map",
+    "main.20b26a93.js.map": "/simple-math-react/static/js/main.20b26a93.js.map",
+    "787.bd6ba04b.chunk.js.map": "/simple-math-react/static/js/787.bd6ba04b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.43b97e72.js"
+    "static/js/main.20b26a93.js"
   ]
 }
